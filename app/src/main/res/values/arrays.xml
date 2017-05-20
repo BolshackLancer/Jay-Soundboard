@@ -1,56 +1,328 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="labels">
-        <item>I Dunno What This Is…</item>
-        <item>It\'s a Baby Fackin Wheel Man!</item>
-        <item>That Thing is Big, Jay</item>
-        <item>That Thing Looks Hurt, Jay</item>
-        <item>HOLY SHIT LOOK AT THIS FUCKIN THING</item>
-        <item>OH MY GAWD WTF IS THAT BRO?!</item>
-        <item>WE SEEIN SOME SHIT WE AIN\'T NEVA SEEN BEFORE KID</item>
-        <item>Oh My Gawd That Thing Looks Dead, Man</item>
-        <item>We Gotta Call the Aquarium or Somethin</item>
-        <item>Holy Shit! What the Fuck IS That?</item>
-        <item>WHAT THE FUCK IS THAT, KID.</item>
-        <item>Let\'s Hook It!</item>
-        <item>WHAT IS THAT FUCKIN THING??</item>
-        <item>HOLY SHIT!</item>
-        <item>We Can Get Some Big Money For That</item>
-        <item>We\'ll Be On The Fuckin News, Man</item>
-        <item>THAT\'S A TOONA BRO</item>
-        <item>JAY THAT\'S A TOONA OR SOMETHIN</item>
-        <item>LOOK AT THAT FACKIN THING!!!</item>
-        <item>OH MY GAAAWD!!!</item>
-        <item>We Need Fuckin Help Buddy</item>
-        <item>That Is Still Good Meat On That Fuckin Fish Jay</item>
-        <item>Am I Lyin\'??</item>
-        <item>Are You Shittin Me? That\'s the Hook You Come?</item>
+        <item>24 7 365</item>
+        <item>40,000</item>
+        <item>Admit it\'s broken</item>
+        <item>All Bitch Asses</item>
+        <item>All Fuck Shit</item>
+
+        <item>Answer that</item>
+        <item>Anthony</item>
+        <item>Attack Wing</item>
+        <item>Armada</item>
+        <item>Because I focus</item>
+        <item>Because of my opinions</item>
+        <item>Been a while</item>
+        <item>Being angry</item>
+        <item>Be men about it</item>
+        <item>Best Imperial Guard</item>
+        <item>Bitch Ass</item>
+        <item>Blocks of peasants</item>
+        <item>Calm the FUCK down</item>
+        <item>Can not win</item>
+        <item>Chill the fuck out</item>
+        <item>Clearly</item>
+        <item>Come after a broke MF</item>
+        <item>Congratulations</item>
+        <item>Didn\'t count</item>
+        <item>Don\'t have a problem</item>
+        <item>Drop pods</item>
+        <item>Dumb fucking mechanic</item>
+        <item>Every player every lilst</item>
+        <item>Every Wednesday</item>
+        <item>Excuse</item>
+        <item>Faction Loyal</item>
+        <item>Failed a Leadership Check</item>
+        <item>Fantasy</item>
+        <item>Few People have done that</item>
+        <item>Fluff</item>
+        <item>Fortifications</item>
+        <item>Fucking Hobbit</item>
+        <item>Fucking Moron</item>
+        <item>Fucking Murdered You</item>
+        <item>Fucking Stupid</item>
+        <item>Fuck Off</item>
+        <item>Fuck Off 2</item>
+        <item>Fuck Shit</item>
+        <item>Fuck You</item>
+        <item>Fuck You 3</item>
+        <item>Fuck You 4</item>
+        <item>Fucking Know it</item>
+        <item>Get it For Real</item>
+        <item>Give A Fuck</item>
+        <item>Have to be a bitch</item>
+        <item>Have you ever won</item>
+        <item>Have you ever won best</item>
+        <item>Helldrakes are good</item>
+        <item>How bout we talk about that</item>
+        <item>How I know I\'m right</item>
+        <item>How the fuck</item>
+        <item>Hu Hu Hu</item>
+        <item>I am sitting down</item>
+        <item>I don\'t talk shit</item>
+        <item>I don\'t like it</item>
+        <item>If there is no fight</item>
+        <item>I have a GT win</item>
+        <item>I know more</item>
+        <item>I know more 2</item>
+        <item>I know what it\'s like to win</item>
+        <item>I\'m fine</item>
+        <item>I\'m sure</item>
+        <item>In my eyes</item>
+        <item>I think you are wrong</item>
+        <item>It\'s not a question for me</item>
+        <item>It was 6th ed</item>
+        <item>I won</item>
+        <item>Just checking</item>
+        <item>Just one</item>
+        <item>Keep it to facts</item>
+        <item>Last time we played</item>
+        <item>Legend never dies</item>
+        <item>Like your argument</item>
+        <item>Literally nobody</item>
+        <item>Loser for me</item>
+        <item>Makes you a fuck boi</item>
+        <item>Making bull shit up</item>
+        <item>Mordhiem</item>
+        <item>More than one</item>
+        <item>Name them</item>
+        <item>Necromunda</item>
+        <item>Netlists</item>
+        <item>Never once seen it</item>
+        <item>None are any better</item>
+        <item>No no no no</item>
+        <item>No null deploy in warmachine</item>
+        <item>No one ever than that</item>
+        <item>Not better than you</item>
+        <item>Not good enough to win</item>
+        <item>No they fucking weren\'t</item>
+        <item>Nothing to do</item>
+        <item>Not one single other</item>
+        <item>Not wrong</item>
+        <item>Only way he can win games</item>
+        <item>Overpowered</item>
+
+        <item>Overpowered shit</item>
+        <item>Own aps 4</item>
+        <item>Paul</item>
+        <item>Pick your battles</item>
+        <item>Play drop pods</item>
+        <item>Play fantasy</item>
+        <item>Playing empire</item>
+        <item>Playing wolfstar</item>
+        <item>Play tau</item>
+        <item>Prove me wrong</item>
+        <item>Real fucking special</item>
+        <item>Really ares crub</item>
+        <item>Real quick</item>
+        <item>RTT win</item>
+        <item>Running</item>
+        <item>Said it five times</item>
+        <item>Salt is a part of my life</item>
+        <item>Shitty little army</item>
+        <item>Shut the fuck up</item>
+        <item>Shut the fuck up 2</item>
+        <item>So I choose not to</item>
+        <item>So ok</item>
+        <item>Supposed to be impressive</item>
+        <item>Sure you\'re real happy</item>
+        <item>Talking shit</item>
+        <item>Talking shit about tall people</item>
+        <item>Tell me why</item>
+        <item>Tell the world</item>
+
+        <item>Terian pieces</item>
+        <item>That\'s basic logic</item>
+        <item>Thats just fucking wrong</item>
+        <item>That\'s not defeat</item>
+        <item>That what you\'re saying</item>
+        <item>They never did it</item>
+        <item>Things you\'re not familiar with</item>
+        <item>Thow some names out</item>
+        <item>Underpowered</item>
+        <item>Wasn\'t gonna go there</item>
+        <item>Watching other people win</item>
+        <item>Well uhhhhhhhh</item>
+        <item>We tied</item>
+        <item>What argument</item>
+        <item>What faction</item>
+        <item>Whatlist</item>
+        <item>What\'s it like from the bottom</item>
+        <item>Where did you end up on tables</item>
+        <item>Whereithaseverexisted</item>
+        <item>Which ones</item>
+        <item>With tanks</item>
+        <item>Xwing</item>
+        <item>Ya ya sure sure</item>
+        <item>You choose not to play it</item>
+        <item>You have failed</item>
+        <item>You moron</item>
+        <item>You\'re a fucking pussy</item>
+        <item>Your special death star</item>
+        <item>You sure about that</item>
     </string-array>
 
     <integer-array name="ids">
-        <item>@raw/r01idkwhatthisis</item>
-        <item>@raw/r02babywheel</item>
-        <item>@raw/r03whatisthatthing</item>
-        <item>@raw/r04hurtinbro</item>
-        <item>@raw/r05holyshitlookatthisfuckinthing</item>
-        <item>@raw/r06omgwtfisthatbro</item>
-        <item>@raw/r07weseeinsomeshitweaintnevaseenbeforekid</item>
-        <item>@raw/r08omgthatthinglooksdeadman</item>
-        <item>@raw/r09wegottacalltheaquarium</item>
-        <item>@raw/r10holyshitwtfisthat</item>
-        <item>@raw/r11wtfisthatkid</item>
-        <item>@raw/r12letshookit</item>
-        <item>@raw/r13whatisthatfuckinthing</item>
-        <item>@raw/r14holyshit</item>
-        <item>@raw/r15wecangetsomebigmoneyforthat</item>
-        <item>@raw/r16beonthenewsman</item>
-        <item>@raw/r17thatsatunabro</item>
-        <item>@raw/r18jaythatsatunaorsomethin</item>
-        <item>@raw/r19lookatthatfuckinthing</item>
-        <item>@raw/r20omg</item>
-        <item>@raw/r21weneedfuckinhelpbuddy</item>
-        <item>@raw/r22stillgoodmeat</item>
-        <item>@raw/r23amilyin</item>
-        <item>@raw/r24thatsthehookyoucome</item>
+        <item>@raw/a247365</item>
+        <item>@raw/a40k</item>
+        <item>@raw/admititsbroken</item>
+        <item>@raw/allbitchasses</item>
+        <item>@raw/allfuckshit</item>
+
+        <item>@raw/answerthat</item>
+        <item>@raw/anthony</item>
+        <item>@raw/armada</item>
+        <item>@raw/atackwing</item>
+        <item>@raw/becauseifocus</item>
+        <item>@raw/becauseofmyopinions</item>
+        <item>@raw/beenawhile</item>
+        <item>@raw/beingangry</item>
+        <item>@raw/bemenaboutit</item>
+        <item>@raw/bestimperialguard</item>
+        <item>@raw/bitchass</item>
+        <item>@raw/blocksofpeasants</item>
+        <item>@raw/calmthefuckdown</item>
+        <item>@raw/cannotwin</item>
+        <item>@raw/chillthefuckout</item>
+        <item>@raw/clearly</item>
+        <item>@raw/comeafterabrokemf</item>
+        <item>@raw/congradulations</item>
+        <item>@raw/didntcount</item>
+        <item>@raw/donthaveaproblem</item>
+        <item>@raw/droppods</item>
+        <item>@raw/dumbfuckingmechanic</item>
+        <item>@raw/everyplayereverylist</item>
+        <item>@raw/everywednesday</item>
+        <item>@raw/excuse</item>
+        <item>@raw/factionloyal</item>
+        <item>@raw/failedaleadershipcheck</item>
+        <item>@raw/fantasy</item>
+        <item>@raw/fewpeoplehavedonethat</item>
+        <item>@raw/fluff</item>
+        <item>@raw/fortifications</item>
+        <item>@raw/fuckinghobbit</item>
+        <item>@raw/fuckingmoron</item>
+        <item>@raw/fuckingmurderedyou</item>
+        <item>@raw/fuckingstupid</item>
+        <item>@raw/fuckoff</item>
+        <item>@raw/fuckoff2</item>
+        <item>@raw/fuckshit</item>
+        <item>@raw/fuckyou</item>
+        <item>@raw/fuckyou3</item>
+        <item>@raw/fuckyou4</item>
+        <item>@raw/fukingknowit</item>
+        <item>@raw/getitforreal</item>
+        <item>@raw/giveafuck</item>
+        <item>@raw/havetobeabitch</item>
+        <item>@raw/haveyoueverwon</item>
+        <item>@raw/haveyoueverwonbest</item>
+        <item>@raw/helldrakesaregood</item>
+        <item>@raw/howboutwetalkaboutthat</item>
+        <item>@raw/howiknowimright</item>
+        <item>@raw/howthefuck</item>
+        <item>@raw/huhuhu</item>
+        <item>@raw/iamsittingdown</item>
+        <item>@raw/idontalkshit</item>
+        <item>@raw/idontlikeit</item>
+        <item>@raw/ifthereisnofight</item>
+        <item>@raw/ihaveagtwin</item>
+        <item>@raw/iknowmore</item>
+        <item>@raw/iknowmore2</item>
+        <item>@raw/iknowwhatitsliketowin</item>
+        <item>@raw/imfine</item>
+        <item>@raw/imsure</item>
+        <item>@raw/inmyeyes</item>
+        <item>@raw/ithinkyouarewrong</item>
+        <item>@raw/itsnotaquestionforme</item>
+        <item>@raw/itwas6thed</item>
+        <item>@raw/iwon</item>
+        <item>@raw/justchecking</item>
+        <item>@raw/justone</item>
+        <item>@raw/keepittofacts</item>
+        <item>@raw/lasttimeweplayed</item>
+        <item>@raw/legendneverdies</item>
+        <item>@raw/likeyourargument</item>
+        <item>@raw/literallynobody</item>
+        <item>@raw/loserforme</item>
+        <item>@raw/makesyouafuckboi</item>
+        <item>@raw/makingbullshitup</item>
+        <item>@raw/mordhiem</item>
+        <item>@raw/morethanone</item>
+        <item>@raw/namethem</item>
+        <item>@raw/necromunda</item>
+        <item>@raw/netlists</item>
+        <item>@raw/neveronceseenit</item>
+        <item>@raw/noneareanybetter</item>
+        <item>@raw/nononono</item>
+        <item>@raw/nonulldeployinwarmachine</item>
+        <item>@raw/nooneeverthanthat</item>
+        <item>@raw/notbetterthanyou</item>
+        <item>@raw/notgoodenoughtowin</item>
+        <item>@raw/notheyfuckingwerent</item>
+        <item>@raw/nothingtodo</item>
+        <item>@raw/notonesingleother</item>
+        <item>@raw/notwrong</item>
+        <item>@raw/onlywayhecanwingames</item>
+        <item>@raw/overpowered</item>
+
+        <item>@raw/overpoweredshit</item>
+        <item>@raw/ownaps4</item>
+        <item>@raw/paul</item>
+        <item>@raw/pickyourbattles</item>
+        <item>@raw/playdroppods</item>
+        <item>@raw/playfantasy</item>
+        <item>@raw/playingempire</item>
+        <item>@raw/playingwolfstar</item>
+        <item>@raw/playtau</item>
+        <item>@raw/provemewrong</item>
+        <item>@raw/realfuckingspecial</item>
+        <item>@raw/reallyarescrub</item>
+        <item>@raw/realquick</item>
+        <item>@raw/rtwin</item>
+        <item>@raw/running</item>
+        <item>@raw/saidit5times</item>
+        <item>@raw/saltisapartofmylife</item>
+        <item>@raw/shittylittlearmy</item>
+        <item>@raw/shutthefuckup</item>
+        <item>@raw/shutthefuckup2</item>
+        <item>@raw/soichoosenotto</item>
+        <item>@raw/sook</item>
+        <item>@raw/supposedtobeimpressive</item>
+        <item>@raw/sureyourerealhappy</item>
+        <item>@raw/talkingshit</item>
+        <item>@raw/talkingshitabouttallpeople</item>
+        <item>@raw/tellmewhy</item>
+        <item>@raw/telltheworld</item>
+
+        <item>@raw/terianpieces</item>
+        <item>@raw/thatsbasiclogic</item>
+        <item>@raw/thatsjustfuckingwrong</item>
+        <item>@raw/thatsnotdefeat</item>
+        <item>@raw/thatwhatyouresaying</item>
+        <item>@raw/theyneverdidit</item>
+        <item>@raw/thingsyourenotfamiliarwith</item>
+        <item>@raw/thowsomenamesout</item>
+        <item>@raw/underpowered</item>
+        <item>@raw/wasntgonnagothere</item>
+        <item>@raw/watchingotherpeoplewin</item>
+        <item>@raw/welluhhhhhhhh</item>
+        <item>@raw/wetied</item>
+        <item>@raw/whatargument</item>
+        <item>@raw/whatfaction</item>
+        <item>@raw/whatlist</item>
+        <item>@raw/whatsitlikefromthebottom</item>
+        <item>@raw/wheredidyouendupontables</item>
+        <item>@raw/whereithaseverexisted</item>
+        <item>@raw/whichones</item>
+        <item>@raw/withtanks</item>
+        <item>@raw/xwing</item>
+        <item>@raw/yayasuresure</item>
+        <item>@raw/youchoosenottoplayit</item>
+        <item>@raw/youhavefailed</item>
+        <item>@raw/youmoron</item>
+        <item>@raw/youreafuckingpussy</item>
+        <item>@raw/yourspecialdeathstar</item>
+        <item>@raw/yousureaboutthat</item>
     </integer-array>
 </resources>
