@@ -65,7 +65,7 @@
         <item>If there is no fight</item>
         <item>I have a GT win</item>
         <item>I know more</item>
-        <item>I know more 2</item>
+
         <item>I know what it\'s like to win</item>
         <item>I\'m fine</item>
         <item>I\'m sure</item>
@@ -104,7 +104,7 @@
         <item>Overpowered</item>
 
         <item>Overpowered shit</item>
-        <item>Own aps 4</item>
+        <item>Own a PS4</item>
         <item>Paul</item>
         <item>Pick your battles</item>
         <item>Play drop pods</item>
@@ -114,7 +114,7 @@
         <item>Play tau</item>
         <item>Prove me wrong</item>
         <item>Real fucking special</item>
-        <item>Really ares crub</item>
+        <item>Really are scrub</item>
         <item>Real quick</item>
         <item>RTT win</item>
         <item>Running</item>
@@ -124,7 +124,7 @@
         <item>Shut the fuck up</item>
         <item>Shut the fuck up 2</item>
         <item>So I choose not to</item>
-        <item>So ok</item>
+        <item>So OK</item>
         <item>Supposed to be impressive</item>
         <item>Sure you\'re real happy</item>
         <item>Talking shit</item>
@@ -134,7 +134,7 @@
 
         <item>Terian pieces</item>
         <item>That\'s basic logic</item>
-        <item>Thats just fucking wrong</item>
+        <item>That\'s just fucking wrong</item>
         <item>That\'s not defeat</item>
         <item>That what you\'re saying</item>
         <item>They never did it</item>
@@ -147,13 +147,13 @@
         <item>We tied</item>
         <item>What argument</item>
         <item>What faction</item>
-        <item>Whatlist</item>
+        <item>What list</item>
         <item>What\'s it like from the bottom</item>
         <item>Where did you end up on tables</item>
-        <item>Whereithaseverexisted</item>
+        <item>Where  ith as never existed</item>
         <item>Which ones</item>
         <item>With tanks</item>
-        <item>Xwing</item>
+        <item>X-Wing</item>
         <item>Ya ya sure sure</item>
         <item>You choose not to play it</item>
         <item>You have failed</item>
@@ -161,6 +161,11 @@
         <item>You\'re a fucking pussy</item>
         <item>Your special death star</item>
         <item>You sure about that</item>
+        <item>Catch that L baby</item>
+        <item>Holding it</item>
+        <item>Let\'s be clear</item>
+        <item>Maybe less</item>
+        <item>I need to be sure</item>
     </string-array>
 
     <integer-array name="ids">
@@ -172,8 +177,8 @@
 
         <item>@raw/answerthat</item>
         <item>@raw/anthony</item>
-        <item>@raw/armada</item>
         <item>@raw/atackwing</item>
+        <item>@raw/armada</item>
         <item>@raw/becauseifocus</item>
         <item>@raw/becauseofmyopinions</item>
         <item>@raw/beenawhile</item>
@@ -228,7 +233,7 @@
         <item>@raw/ifthereisnofight</item>
         <item>@raw/ihaveagtwin</item>
         <item>@raw/iknowmore</item>
-        <item>@raw/iknowmore2</item>
+
         <item>@raw/iknowwhatitsliketowin</item>
         <item>@raw/imfine</item>
         <item>@raw/imsure</item>
@@ -324,5 +329,10 @@
         <item>@raw/youreafuckingpussy</item>
         <item>@raw/yourspecialdeathstar</item>
         <item>@raw/yousureaboutthat</item>
+        <item>@raw/catchthatlbaby</item>
+        <item>@raw/holdingit</item>
+        <item>@raw/letsbeclear</item>
+        <item>@raw/maybeless</item>
+        <item>@raw/needtobesure</item>
     </integer-array>
 </resources>
